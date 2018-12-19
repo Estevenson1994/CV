@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2018 - March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,13 +34,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London (2013 - 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSci Chemistry Internaltional Program - 1st Class Honous
+- Fourth year units: 
+     Numerical and Analytical Methods - Bayesian statistics, scientific computing and data anaylsis using C++ - 87%, 
+     Quantum Mechanics - analytical methods used in quantum mechanics and spectroscopy - 86%
+- Masters project: "Sorting out the Sex Hormonne", Joint computational and experimental research project on crystal structure determination - 82%
+- Publications in Royal Society of Chemistry Journal 'CrystEngComm':
+ https://pubs.rsc.org/en/content/articlepdf/2019/ce/c8ce01874j
 
-#### Any other qualifications
+#### University of Western Australia (2015 - 2016)
+
+-  One year exchange as part of degree.
+
 
 ## Experience
 
