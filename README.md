@@ -59,6 +59,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Semantic Evolution** (June 2017 - November 2018)    
 *Data Analyst*
 Semantic Evolution's technology uses artificial intelligence techniques to enable users to efficiently identify, validate and extract their desired information into a consistent, structured format for rapid analysis and integration into their business process.
-  
+  -  Quickly developed a deep understanding of the software product  and within three months was responsible for project managing two client accounts and providing support to a further five.
+  - Liaising with clients to understand their requirements and subsequently using the Semantic extraction platform to build and calibrate data models for their financial products, which enables extraction of relevant data.  
+  - Testing software and client tools and providing feedback to developers to improve and enrich the product.
+  - Independently spend one week onsite with clients in Toronto and Dublin, training them to use the Semantic Evolution software.
+  - Liaising with the sales team to keep them up to date on the latest features and providing feedback from clients as to which features are most desirable.
+  - Part of the interview team, responsible for on-boarding new data analysts.
 **Company Name** (start_date to end_date)   
 *Your job title*  
