@@ -37,21 +37,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University College London (2013 - 2017)
 
 - MSci Chemistry Internaltional Program - 1st Class Honous
-- Fourth year units: 
-     Numerical and Analytical Methods - Bayesian statistics, scientific computing and data anaylsis using C++ - 87%, 
-     Quantum Mechanics - analytical methods used in quantum mechanics and spectroscopy - 86%
+- Fourth year units:
+    - Numerical and Analytical Methods - Bayesian statistics,    scientific computing and data anaylsis using C++ - 87%
+    - Quantum Mechanics - analytical methods used in quantum mechanics and spectroscopy - 86%
 - Masters project: "Sorting out the Sex Hormonne", Joint computational and experimental research project on crystal structure determination - 82%
-- Publications in Royal Society of Chemistry Journal 'CrystEngComm':
+- Publication in Royal Society of Chemistry Journal 'CrystEngComm':
  https://pubs.rsc.org/en/content/articlepdf/2019/ce/c8ce01874j
 
 #### University of Western Australia (2015 - 2016)
 
 -  One year exchange as part of degree.
 
+#### Altrincham Grammar School for Girls (2005 - 2012)
 
+- A levels:
+    - A* Mathematics, A Chemistry, A Further Mathematics
+- AS Level:
+    - A Biology
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Semantic Evolution** (June 2017 - November 2018)    
+*Data Analyst*
+Semantic Evolution's technology uses artificial intelligence techniques to enable users to efficiently identify, validate and extract their desired information into a consistent, structured format for rapid analysis and integration into their business process.
+  
 **Company Name** (start_date to end_date)   
 *Your job title*  
