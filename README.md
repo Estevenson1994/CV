@@ -1,34 +1,20 @@
 ## Erin Stevenson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusiastic, hard working and attentive Makers Academy Fellow and MSci Chemistry Graduate, looking for my first job as a junior developer.
 
-## Skills
+After graduating from university, I worked as a data analyst at a small technology start up for a year. During my time there, I managed to persuade the CEO to pay for two of my colleagues and myself to attend the 'Girls in Tech catalyst conference'. Unfortunately for him, this led me to the much needed, new and exciting adventure as a Makers Academy Fellow.
 
-#### This Skill
+I am relishing the opportunity to grow and learn as I embark upon this journey. I am looking for a career where I can further develop my coding skills in a fast paced and challenging environment.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (December 2018 - March 2019)
 
+- Accepted as a Fellow on the highly selective 12 week intensive coding bootcamp
 - Curious and passionate about code. [to be completed]
 - Fast, independent learner [to be completed]
 - Great collaborator [to be completed]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -81,9 +67,9 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
   *Senior Waitress and front of house*
 
 ## Hobbies and Interests
-- Ballroom and Latin American Dancing: Competed at national level from the age of 6 till 18, continued to dance for fun to present, but looking to compete again soon.
-- Running: Regularly take part in 'Park Runs' on Saturday mornings, competed the 'Royal Parks Half' in 2017, raising money for Beat Bowel Cancer charity and the 'Hackney Half' in 2018. Also entered the 'Hackney Half' for 2019.
+- Ballroom and Latin American Dancing: Competed at national level from the age of 6 till 18. I continue to dance for fun, however I am looking to compete again soon.
+- Running: Regularly take part in 'Park Runs' on Saturday mornings, competed the 'Royal Parks Half' in 2017, raising money for the Beat Bowel Cancer charity and the 'Hackney Half' in 2018. I have also entered the 'Hackney Half' in 2019.
 - Cycling: I love cycling in to work everyday, and I plan to cycle from London to Amsterdam in May 2019 with my family.
-- Volunteering: I am currently tutoring via the charity 'The Access Project' which aims to get students from disadvantaged backgrounds into great universities. I currently tutor A level chemistry for one hour a week.
+- Volunteering: I am currently tutoring via the charity 'The Access Project' which aims to help students from disadvantaged backgrounds get into great universities. I currently tutor A level chemistry for one hour a week.
 - Yoga: When I find the time, I love to have a good stretch out at yoga. I hope to be able to hold a handstand by the end of 2019.
 - UCL Cheerleading society: Achieved 1st place in national university competitions.
