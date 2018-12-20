@@ -25,9 +25,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (December 2018 - March 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. [to be completed]
+- Fast, independent learner [to be completed]
+- Great collaborator [to be completed]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -44,6 +44,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Publication in Royal Society of Chemistry Journal 'CrystEngComm', taken from final year research project:
  https://pubs.rsc.org/en/content/articlepdf/2019/ce/c8ce01874j
 
+#### Code First Girls (February 2017)
+
+- Took the codefirst girls course in HTML and CSS during my final year of university.
+
 #### University of Western Australia (2015 - 2016)
 
 -  One year exchange as part of degree.
@@ -56,6 +60,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
     - A Biology
 - GCSE:
     - A*'s: Chemistry, Biology, Physics, Maths
+
 ## Experience
 
 **Semantic Evolution** (June 2017 - November 2018)    
@@ -67,9 +72,18 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
   - Independently spend one week onsite with clients in Toronto and Dublin, training them to use the Semantic Evolution software.
   - Liaising with the sales team to keep them up to date on the latest features and providing feedback from clients as to which features are most desirable.
   - Part of the interview team, responsible for on-boarding new data analysts.
+
 **Veeve, London home rental specialist** (July 2018 - September 2018)   
 *Guest Services Assistant*  
   - First point of contact for customers, maintaining excellent relationships with guests and tackling problems on a day to day basis.
   - Continued to work during my final year studies as a greeter to welcome guests to the properties.
   **Wild Duck Fine Dining Restaurant, Perth & Lime Bar and Restaurant, Salford (2011 - 2015)**
   *Senior Waitress and front of house*
+
+## Hobbies and Interests
+- Ballroom and Latin American Dancing: Competed at national level from the age of 6 till 18, continued to dance for fun to present, but looking to compete again soon.
+- Running: Regularly take part in 'Park Runs' on Saturday mornings, competed the 'Royal Parks Half' in 2017, raising money for Beat Bowel Cancer charity and the 'Hackney Half' in 2018. Also entered the 'Hackney Half' for 2019.
+- Cycling: I love cycling in to work everyday, and I plan to cycle from London to Amsterdam in May 2019 with my family.
+- Volunteering: I am currently tutoring via the charity 'The Access Project' which aims to get students from disadvantaged backgrounds into great universities. I currently tutor A level chemistry for one hour a week.
+- Yoga: When I find the time, I love to have a good stretch out at yoga. I hope to be able to hold a handstand by the end of 2019.
+- UCL Cheerleading society: Achieved 1st place in national university competitions.
