@@ -6,6 +6,12 @@ After graduating from university, I worked as a data analyst at a small technolo
 
 I am relishing the opportunity to grow and learn as I embark upon this journey. I am looking for a career where I can further develop my coding skills in a fast paced and challenging environment.
 
+## Skills
+
+- Fast learner:
+- Excellent Communicator: My role at as a data analyst included conversing and training clients on a daily basis.
+- Thrives under pressure: Be it working to a tight deadline, travelling abroad to visit clients solo, working long busy shifts at a restaurant , or competing at national dance competitions, I have ample experience in dealing with high pressure situations calmly and professionally.
+
 
 ## Education
 
@@ -26,13 +32,13 @@ I am relishing the opportunity to grow and learn as I embark upon this journey. 
 - Fourth year units:
     - Numerical and Analytical Methods - Bayesian statistics,    scientific computing and data analysis using C++ - 87%
     - Quantum Mechanics - analytical methods used in quantum mechanics and spectroscopy - 86%
-- Masters project: "Sorting out the Sex Hormone", Joint computational and experimental research project on crystal structure determination - 82%
-- Publication in Royal Society of Chemistry Journal 'CrystEngComm', taken from final year research project:
+- Masters project: "Sorting out the Sex Hormone", joint computational and experimental research project on crystal structure determination - 82%
+- Research from final year project published in CrystEngComm:
  https://pubs.rsc.org/en/content/articlepdf/2019/ce/c8ce01874j
 
 #### Code First Girls (February 2017)
 
-- Took the codefirst girls course in HTML and CSS during my final year of university.
+- CodeFirst girls course in HTML and CSS during my final year of university.
 
 #### University of Western Australia (2015 - 2016)
 
@@ -69,7 +75,7 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
 ## Hobbies and Interests
 - Ballroom and Latin American Dancing: Competed at national level from the age of 6 till 18. I continue to dance for fun, however I am looking to compete again soon.
 - Running: Regularly take part in 'Park Runs' on Saturday mornings, competed the 'Royal Parks Half' in 2017, raising money for the Beat Bowel Cancer charity and the 'Hackney Half' in 2018. I have also entered the 'Hackney Half' in 2019.
-- Cycling: I love cycling in to work everyday, and I plan to cycle from London to Amsterdam in May 2019 with my family.
+- Cycling: I love cycling in to work everyday, and I plan to cycle around Belgium with my family in May 2019.
 - Volunteering: I am currently tutoring via the charity 'The Access Project' which aims to help students from disadvantaged backgrounds get into great universities. I currently tutor A level chemistry for one hour a week.
 - Yoga: When I find the time, I love to have a good stretch out at yoga. I hope to be able to hold a handstand by the end of 2019.
 - UCL Cheerleading society: Achieved 1st place in national university competitions.
