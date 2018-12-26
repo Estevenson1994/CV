@@ -62,6 +62,7 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
 *Guest Services Assistant*  
   - First point of contact for customers, maintaining excellent relationships with guests and tackling problems on a day to day basis.
   - Continued to work during my final year studies as a greeter to welcome guests to the properties.
+
 **Wild Duck Fine Dining Restaurant, Perth & Lime Bar and Restaurant, Salford (2011 - 2015)**
 *Senior Waitress and front of house*
 
