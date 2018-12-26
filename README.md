@@ -6,13 +6,6 @@ After graduating from university, I worked as a data analyst at a small technolo
 
 I am relishing the opportunity to grow and learn as I embark upon this journey. I am looking for a career where I can further develop my coding skills in a fast paced and challenging environment.
 
-## Skills
-
-- Fast learner:
-- Excellent Communicator: My role at as a data analyst included conversing and training clients on a daily basis.
-- Thrives under pressure: Be it working to a tight deadline, travelling abroad to visit clients solo, working long busy shifts at a restaurant , or competing at national dance competitions, I have ample experience in dealing with high pressure situations calmly and professionally.
-
-
 ## Education
 
 #### Makers Academy (December 2018 - March 2019)
@@ -69,8 +62,8 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
 *Guest Services Assistant*  
   - First point of contact for customers, maintaining excellent relationships with guests and tackling problems on a day to day basis.
   - Continued to work during my final year studies as a greeter to welcome guests to the properties.
-  **Wild Duck Fine Dining Restaurant, Perth & Lime Bar and Restaurant, Salford (2011 - 2015)**
-  *Senior Waitress and front of house*
+**Wild Duck Fine Dining Restaurant, Perth & Lime Bar and Restaurant, Salford (2011 - 2015)**
+*Senior Waitress and front of house*
 
 ## Hobbies and Interests
 - Ballroom and Latin American Dancing: Competed at national level from the age of 6 till 18. I continue to dance for fun, however I am looking to compete again soon.
