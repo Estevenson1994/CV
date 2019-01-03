@@ -1,8 +1,8 @@
 ## Erin Stevenson
 
-I am an enthusiastic, hard working and attentive Makers Academy Fellow and MSci Chemistry Graduate, looking for my first job as a junior developer.
+I am an enthusiastic and hard working Makers Academy Fellow and MSci Chemistry Graduate, looking for my first job as a junior developer.
 
-After graduating from university, I worked as a data analyst at a small technology start up for a year. During my time there, I managed to persuade the CEO to pay for two of my colleagues and myself to attend the 'Girls in Tech catalyst conference'. Unfortunately for him, this led me to the much needed, new and exciting adventure as a Makers Academy Fellow.
+After graduating from university, I worked as a data analyst at a small technology start up, for one year. During my time there, I persuaded the CEO to pay for two of my colleagues and myself to attend the 'Girls in Tech catalyst conference'. Unfortunately for him, this led me to the much needed, new and exciting adventure as a Makers Academy Fellow.
 
 I am relishing the opportunity to grow and learn as I embark upon this journey. I am looking for a career where I can further develop my coding skills in a fast paced and challenging environment.
 
@@ -10,7 +10,7 @@ I am relishing the opportunity to grow and learn as I embark upon this journey. 
 
 #### Makers Academy (December 2018 - March 2019)
 
-- Accepted as a Fellow on the highly selective 12 week intensive coding bootcamp
+- Accepted as a Fellow on the highly selective 12 week intensive coding bootcamp where the
 - Curious and passionate about code. [to be completed]
 - Fast, independent learner [to be completed]
 - Great collaborator [to be completed]
