@@ -73,3 +73,6 @@ Semantic Evolution's technology uses artificial intelligence techniques to enabl
 - Volunteering: I am currently tutoring via the charity 'The Access Project' which aims to help students from disadvantaged backgrounds get into great universities. I currently tutor A level chemistry for one hour a week.
 - Yoga: When I find the time, I love to have a good stretch out at yoga. I hope to be able to hold a handstand by the end of 2019.
 - UCL Cheerleading society: Achieved 1st place in national university competitions.
+
+
+Thing to add - women in tech conference
