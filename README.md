@@ -1,6 +1,8 @@
 ## Erin Stevenson
 
-I am an enthusiastic and hard working Makers Academy Fellow and MSci Chemistry Graduate, looking for my first job as a junior developer.
+[Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+
+[Makers Academy Fellow](https://makers.tech/fellowship/) and MSci Chemistry Graduate, looking for my first job as a junior developer.
 
 After graduating from university, I worked as a data analyst at a small technology start up, for one year. During my time there, I persuaded the CEO to pay for two of my colleagues and myself to attend the 'Girls in Tech catalyst conference'. Unfortunately for him, this led me to the much needed, new and exciting adventure as a Makers Academy Fellow.
 
@@ -37,21 +39,12 @@ I am relishing the opportunity to grow and learn as I embark upon this journey. 
 
 -  One year exchange as part of degree.
 
-#### Altrincham Grammar School for Girls (2005 - 2012)
-
-- A levels:
-    - A* Mathematics, A Chemistry, A Further Mathematics
-- AS Level:
-    - A Biology
-- GCSE:
-    - A*'s: Chemistry, Biology, Physics, Maths
-
 ## Experience
 
 **Semantic Evolution** (June 2017 - November 2018)    
 *Data Analyst*
 Semantic Evolution's technology uses artificial intelligence techniques to enable users to efficiently identify, validate and extract their desired information into a consistent, structured format for rapid analysis and integration into their business process.
-  -  Quickly developed a deep understanding of the software product  and within three months was responsible for project managing two client accounts and providing support to a further five.
+  -  Quickly developed a deep understanding of the software product and within three months was responsible for project managing two client accounts and providing support to a further five.
   - Liaising with clients to understand their requirements and subsequently using the Semantic extraction platform to build and calibrate data models for their financial products, which enables extraction of relevant data.  
   - Testing software and client tools and providing feedback to developers to improve and enrich the product.
   - Independently spend one week onsite with clients in Toronto and Dublin, training them to use the Semantic Evolution software.
