@@ -48,6 +48,15 @@ Accepted as a Fellow on the highly selective 12 week intensive coding bootcamp.
 
 -  One year exchange as part of degree.
 
+#### Altrincham Grammar School for Girls (2005 - 2012)	
+
+ - A levels:	
+    - A* Mathematics, A Chemistry, A Further Mathematics	
+- AS Level:	
+    - A Biology	
+- GCSE:	
+    - A*'s: Chemistry, Biology, Physics, Maths
+
 ## Experience
 
 **Semantic Evolution** (June 2017 - November 2018)    
